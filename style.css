@@ -1,0 +1,17 @@
+*{
+    padding:15px;
+}
+
+.h{
+    text-align: center;
+}
+.main-container{
+    display: flex;
+    justify-content: center;
+}
+.opt-container{
+    display: flex;
+    justify-content: center;
+    height: 10px;
+    width:10px;
+}
